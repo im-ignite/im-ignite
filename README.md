@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm [IGNITE]</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5d9b8758-71d0-40e2-8dec-cb2597d0a906" alt="Profile Picture" width="150">
+  <img src="https://github.com/user-attachments/assets/5d9b8758-71d0-40e2-8dec-cb2597d0a906" alt="Profile Picture" style="--tool-tip-position-top: 440px; --tool-tip-position-left: 155.4296875px;">
 </p>
 
 <p align="center">
