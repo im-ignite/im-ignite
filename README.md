@@ -80,12 +80,12 @@ whoami:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=im-ignite&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-ignite&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9"/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF"/>
+<img src="https://streak-stats.demolab.com/?user=im-ignite&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=im-ignite&theme=darkhub&no-frame=true&margin-w=8&row=1" />
 
 </div>
 
@@ -94,7 +94,7 @@ whoami:
 ## 🐍 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/im-ignite/im-ignite/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <sub>⚙️ This snake animation isn't automatic — see setup note at the bottom of this message.</sub>
@@ -105,7 +105,7 @@ whoami:
 
 ### 💬 Let's build something on-chain together
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&color=00F5FF" alt="Visitor Count">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=im-ignite.im-ignite&color=00F5FF" alt="Visitor Count">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
